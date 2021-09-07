@@ -1,9 +1,9 @@
-Programmer, love coding in C#, Python,
-Fullstack developer (Python/Django | Reactjs + WebComponents + litElement)
-Intersted in Machine learning and image processing
+- [x] Programmer, love coding in C#, Python,
+- [x] Fullstack developer (Python/Django | Reactjs + WebComponents + litElement) :smile:
+- [x] Intersted in Machine learning and image processing
 
-BS in Electrical Engineering
-MS in Communication Systems Engineering (In Progress)
+- [x] BS in Electrical Engineering from shiraz university
+- [x] MS in Communication Systems Engineering (In Progress) 
 
 <!---
 0x-m/0x-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
