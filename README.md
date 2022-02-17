@@ -1,8 +1,7 @@
-- [x] Programmer, love coding in C#, Python,
-- [x] Fullstack developer (Python/Django | Reactjs + WebComponents + litElement) :smile:
+- [x] Fullstack developer (Python/Django | Reactjs + WebComponents) :smile:
 - [x] Intersted in Machine learning and image processing
 
-- [x] BS in Electrical Engineering from shiraz university
+- [x] BS in Electrical Engineering(shiraz university 2016-2020)
 - [x] MS in Communication Systems Engineering (In Progress) 
 
 <!---
