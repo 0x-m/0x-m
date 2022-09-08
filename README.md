@@ -1,4 +1,4 @@
-- [x] Fullstack developer (Python/Django | Reactjs + WebComponents) :smile:
+- [x] Fullstack developer (Python/Django | Reactjs) :smile:
 - [x] Intersted in Machine learning and image processing
 
 - [x] BS in Electrical Engineering(shiraz university 2016-2020)
