@@ -1,8 +1,9 @@
-- [x] Fullstack developer (Python/Django | Reactjs) :smile:
-- [x] Intersted in Machine learning and image processing
-
+- [x] Software engineer and programmer :smile:
+- [x] Proficient in C/C++ and Python, Alogirhtms and Data structures.
+- [x] Fullstack web developer (Django HTML / CSS / JS)
+- [x] Enthusiastic about machine learning and signal processing
 - [x] BS in Electrical Engineering(shiraz university 2016-2020)
-- [x] MS in Communication Systems Engineering (In Progress) 
+- [x] MS in Communication Systems Engineering 
 
 <!---
 0x-m/0x-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
