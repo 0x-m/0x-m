@@ -1,4 +1,4 @@
-- [x] Software engineer and programmer :smile:
+- [x] ICT Engineer, Software engineer
 - [x] Proficient in C/C++ and Python, Alogirhtms and Data structures.
 - [x] Fullstack web developer (Django HTML / CSS / JS)
 - [x] Enthusiastic about machine learning and signal processing
